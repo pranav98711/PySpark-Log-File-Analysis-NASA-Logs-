@@ -1,4 +1,4 @@
-# PySpark Log File Analysis NASA Logs Dataset
+# PySpark Log File Analysis - NASA Logs Dataset
 
 
 This is a simple project where I used PySpark to analyze old NASA web server logs from July and August 1995. The log files are huge, so normal tools like pandas aren't ideal - PySpark handles them easily.
